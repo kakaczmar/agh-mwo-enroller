@@ -1,5 +1,8 @@
-.settings/
-.classpath
+/shelf/
+/workspace.xml
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
 .project
 .class
 .logo
